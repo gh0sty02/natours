@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAY,wBAAZ","file":"bundle.js","sourceRoot":"","sourcesContent":["console.log('hello form the bundler');\r\n"]}
